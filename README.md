@@ -71,5 +71,3 @@ Visuals included in this repo:
 
 ---
 
-## 📚 File Structure
-
