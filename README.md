@@ -47,6 +47,7 @@ The dataset contains information about students from the **first graduating MBA 
 - 📊 Students with **C/D MBA grades** saw **100+ point improvements** in employability.
 - 💸 **No strong correlation** found between salary and other dataset features.
 
+
 ---
 
 ## 📊 Visualizations
@@ -70,4 +71,7 @@ Visuals included in this repo:
 - Git & GitHub
 
 ---
+
+## 📖 Read Blog 
+http://medium.com/@khushibhoj/how-data-helped-a-business-school-rethink-its-mba-program-aef9af279ffb
 
